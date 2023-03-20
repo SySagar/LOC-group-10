@@ -23,7 +23,7 @@ int main()
         if(b == 0)
             printf("Not Defined\n");
         else
-            printf("The quotient of %d and %d is %d\n", a, b, a + b);
+            printf("The quotient of %d and %d is %d\n", a, b, a / b);
         break;
 
     default:
